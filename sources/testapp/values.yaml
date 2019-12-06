@@ -1,0 +1,4 @@
+image: sahaanirban2020/testapp
+image_tag: latest
+replicas: 2
+appname: testapp

@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  testapp:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-12-06T12:28:19.986294747Z"
+    description: Test App Helm chart for Kubernetes
+    digest: 19345f67da0fd86563ea2ed1590de94a9a7ba60d3e54bc78f83901008ad8a182
+    name: testapp
+    urls:
+    - https://sahaanirban2020.github.io/helm-chart/testapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-06T12:28:19.98594938Z"
